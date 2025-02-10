@@ -19,9 +19,7 @@ jobs:
           python-version: "3.9"
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
-          pip install -r requirements.txt
-          pip install fpdf # Add this line to install fpdf
+        run: pip install -r requirements.txt
 
       - name: Run scraper
         run: python scraper.py

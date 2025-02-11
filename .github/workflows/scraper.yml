@@ -2,7 +2,12 @@ name: NCAA Soccer Scraper
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs at midnight UTC daily
+    - cron: "0 8 * * *" 
+    # Runs at midnight Pacific Time (PT) daily 
+    # modify line above for other update times:
+    # Eastern time (ET) -> - cron: "0 5 * * *"
+    # Central time (CT) -> - cron: "0 6 * * *"
+    # Mountain time (MT) -> - cron: "0 7 * * *"
   workflow_dispatch: # Allows manual runs
 
 jobs:

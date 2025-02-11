@@ -47,7 +47,10 @@ def save_data(data):
         # print("Creating data directory")  # Helper line
         os.makedirs("data")
 
-    json_filename = f"data/scores_{datetime.now().strftime('%Y-%m-%d')}.json"
+    pacific_tz = pytz.timezone("America/Los_Angeles")
+    pacific_time = datetime.now(pacific_tz).strftime('%Y-%m-%d')
+
+    json_filename = f"data/scores_{pacific_time}.json"
     # print(f"Saving data to {json_filename}")  # Helper line
     with open(json_filename, "w") as file:
         json.dump(data, file, indent=4)
@@ -55,7 +58,7 @@ def save_data(data):
     print(f"Saved {len(data)} games to {json_filename}")
 
     # Save data as PDF
-    pdf_filename = f"data/scores_{datetime.now().strftime('%Y-%m-%d')}.pdf"
+    pdf_filename = f"data/scores_{pacific_time}.pdf"
     create_pdf(data, pdf_filename)
 
 # PDF file generator

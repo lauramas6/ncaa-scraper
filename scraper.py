@@ -7,6 +7,7 @@ import os
 from datetime import datetime
 from bs4 import BeautifulSoup
 from fpdf import FPDF
+import pytz
 
 
 # NCAA Women's Soccer Scores URL

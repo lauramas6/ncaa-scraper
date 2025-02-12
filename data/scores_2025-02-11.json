@@ -1,9 +1,37 @@
 [
     {
-        "team_1": "Wake Forest",
-        "score_1": "0",
-        "team_2": "North Carolina",
-        "score_2": "1",
-        "date": "2025-02-11"
+        "team_1": "Niagara",
+        "score_1": "12",
+        "team_2": "Canisius",
+        "score_2": "14",
+        "date": "2025-02-12"
+    },
+    {
+        "team_1": "Southeast Mo. St.",
+        "score_1": "12",
+        "team_2": "Little Rock",
+        "score_2": "19",
+        "date": "2025-02-12"
+    },
+    {
+        "team_1": "UAB",
+        "score_1": "18",
+        "team_2": "Temple",
+        "score_2": "20",
+        "date": "2025-02-12"
+    },
+    {
+        "team_1": "BYU",
+        "score_1": "",
+        "team_2": "TCU",
+        "score_2": "",
+        "date": "2025-02-12"
+    },
+    {
+        "team_1": "West Virginia",
+        "score_1": "",
+        "team_2": "Baylor",
+        "score_2": "",
+        "date": "2025-02-12"
     }
 ]

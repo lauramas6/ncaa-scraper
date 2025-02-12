@@ -11,7 +11,8 @@ import pytz
 
 
 # NCAA Women's Soccer Scores URL
-NCAA_URL = "https://www.ncaa.com/scoreboard/soccer-women/d1"
+# NCAA_URL = "https://www.ncaa.com/scoreboard/soccer-women/d1"
+NCAA_URL = "https://www.ncaa.com/scoreboard/basketball-women/d1" # for testing purposes
 
 # Fetch data and returns scores
 def fetch_scores():

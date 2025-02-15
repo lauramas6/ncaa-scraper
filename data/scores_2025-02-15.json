@@ -1,0 +1,72 @@
+[
+    {
+        "team_1": "Hampton",
+        "score_1": "59",
+        "team_2": "Stony Brook",
+        "score_2": "57",
+        "date": "2025-02-15"
+    },
+    {
+        "team_1": "Harvard",
+        "score_1": "66",
+        "team_2": "Cornell",
+        "score_2": "29",
+        "date": "2025-02-15"
+    },
+    {
+        "team_1": "Yale",
+        "score_1": "59",
+        "team_2": "Penn",
+        "score_2": "71",
+        "date": "2025-02-15"
+    },
+    {
+        "team_1": "William & Mary",
+        "score_1": "58",
+        "team_2": "Drexel",
+        "score_2": "59",
+        "date": "2025-02-15"
+    },
+    {
+        "team_1": "Brown",
+        "score_1": "67",
+        "team_2": "Princeton",
+        "score_2": "78",
+        "date": "2025-02-15"
+    },
+    {
+        "team_1": "Towson",
+        "score_1": "63",
+        "team_2": "Hofstra",
+        "score_2": "51",
+        "date": "2025-02-15"
+    },
+    {
+        "team_1": "Monmouth",
+        "score_1": "61",
+        "team_2": "Delaware",
+        "score_2": "70",
+        "date": "2025-02-15"
+    },
+    {
+        "team_1": "Elon",
+        "score_1": "70",
+        "team_2": "UNCW",
+        "score_2": "56",
+        "date": "2025-02-15"
+    },
+    {
+        "team_1": "Dartmouth",
+        "score_1": "37",
+        "team_2": "Columbia",
+        "score_2": "89",
+        "date": "2025-02-15"
+    },
+    {
+        "team_1": "N.C. A&T",
+        "score_1": "73",
+        "team_2": "Northeastern",
+        "score_2": "55",
+        "date": "2025-02-15"
+    }
+]

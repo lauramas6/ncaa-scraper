@@ -1,0 +1,72 @@
+[
+    {
+        "team_1": "Delaware St.",
+        "score_1": "40",
+        "team_2": "Norfolk St.",
+        "score_2": "78",
+        "date": "2025-02-18"
+    },
+    {
+        "team_1": "Morgan St.",
+        "score_1": "48",
+        "team_2": "N.C. Central",
+        "score_2": "57",
+        "date": "2025-02-18"
+    },
+    {
+        "team_1": "Coppin St.",
+        "score_1": "57",
+        "team_2": "South Carolina St.",
+        "score_2": "45",
+        "date": "2025-02-18"
+    },
+    {
+        "team_1": "UMES",
+        "score_1": "40",
+        "team_2": "Howard",
+        "score_2": "42",
+        "date": "2025-02-18"
+    },
+    {
+        "team_1": "Michigan",
+        "score_1": "48",
+        "team_2": "Maryland",
+        "score_2": "50",
+        "date": "2025-02-18"
+    },
+    {
+        "team_1": "Duke",
+        "score_1": "27",
+        "team_2": "Notre Dame",
+        "score_2": "33",
+        "date": "2025-02-18"
+    },
+    {
+        "team_1": "Northwestern",
+        "score_1": "",
+        "team_2": "Rutgers",
+        "score_2": "",
+        "date": "2025-02-18"
+    },
+    {
+        "team_1": "Texas A&M",
+        "score_1": "",
+        "team_2": "Alabama",
+        "score_2": "",
+        "date": "2025-02-18"
+    },
+    {
+        "team_1": "Iowa",
+        "score_1": "78",
+        "team_2": "Ohio St.",
+        "score_2": "86",
+        "date": "2025-02-18"
+    },
+    {
+        "team_1": "Kansas St.",
+        "score_1": "57",
+        "team_2": "West Virginia",
+        "score_2": "70",
+        "date": "2025-02-18"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "team_1": "Oklahoma St.",
+        "score_1": "",
+        "team_2": "Utah",
+        "score_2": "",
+        "date": "2025-02-19"
+    },
+    {
+        "team_1": "South Fla.",
+        "score_1": "70",
+        "team_2": "Charlotte",
+        "score_2": "52",
+        "date": "2025-02-19"
+    },
+    {
+        "team_1": "Tennessee St.",
+        "score_1": "52",
+        "team_2": "UT Martin",
+        "score_2": "73",
+        "date": "2025-02-19"
+    },
+    {
+        "team_1": "UCF",
+        "score_1": "58",
+        "team_2": "Kansas",
+        "score_2": "63",
+        "date": "2025-02-19"
+    },
+    {
+        "team_1": "Fla. Atlantic",
+        "score_1": "39",
+        "team_2": "Rice",
+        "score_2": "72",
+        "date": "2025-02-19"
+    },
+    {
+        "team_1": "Wyoming",
+        "score_1": "73",
+        "team_2": "Boise St.",
+        "score_2": "78",
+        "date": "2025-02-19"
+    }
+]

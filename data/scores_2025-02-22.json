@@ -1,0 +1,44 @@
+[
+    {
+        "team_1": "Indiana St.",
+        "score_1": "71",
+        "team_2": "UIC",
+        "score_2": "94",
+        "date": "2025-02-22"
+    },
+    {
+        "team_1": "N.C. A&T",
+        "score_1": "67",
+        "team_2": "William & Mary",
+        "score_2": "44",
+        "date": "2025-02-22"
+    },
+    {
+        "team_1": "Delaware",
+        "score_1": "60",
+        "team_2": "Elon",
+        "score_2": "51",
+        "date": "2025-02-22"
+    },
+    {
+        "team_1": "Towson",
+        "score_1": "67",
+        "team_2": "Northeastern",
+        "score_2": "51",
+        "date": "2025-02-22"
+    },
+    {
+        "team_1": "Evansville",
+        "score_1": "55",
+        "team_2": "Valparaiso",
+        "score_2": "76",
+        "date": "2025-02-22"
+    },
+    {
+        "team_1": "Drexel",
+        "score_1": "60",
+        "team_2": "Campbell",
+        "score_2": "54",
+        "date": "2025-02-22"
+    }
+]

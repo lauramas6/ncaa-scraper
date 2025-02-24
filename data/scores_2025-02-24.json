@@ -1,0 +1,310 @@
+[
+    {
+        "team_1": "UC San Diego",
+        "score_1": "44",
+        "team_2": "Hawaii",
+        "score_2": "49",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Purdue",
+        "score_1": "46",
+        "team_2": "Ohio St.",
+        "score_2": "98",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Villanova",
+        "score_1": "56",
+        "team_2": "Providence",
+        "score_2": "63",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "West Virginia",
+        "score_1": "50",
+        "team_2": "TCU",
+        "score_2": "71",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Wake Forest",
+        "score_1": "60",
+        "team_2": "Miami (FL)",
+        "score_2": "62",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Davidson",
+        "score_1": "73",
+        "team_2": "George Washington",
+        "score_2": "54",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Notre Dame",
+        "score_1": "95",
+        "team_2": "NC State",
+        "score_2": "104",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Delaware",
+        "score_1": "55",
+        "team_2": "N.C. A&T",
+        "score_2": "71",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Col. of Charleston",
+        "score_1": "79",
+        "team_2": "William & Mary",
+        "score_2": "76",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Clemson",
+        "score_1": "59",
+        "team_2": "Pittsburgh",
+        "score_2": "72",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Drexel",
+        "score_1": "63",
+        "team_2": "Elon",
+        "score_2": "56",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Rhode Island",
+        "score_1": "42",
+        "team_2": "Massachusetts",
+        "score_2": "40",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Tennessee",
+        "score_1": "86",
+        "team_2": "Florida",
+        "score_2": "78",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Richmond",
+        "score_1": "68",
+        "team_2": "VCU",
+        "score_2": "55",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Monmouth",
+        "score_1": "54",
+        "team_2": "Hofstra",
+        "score_2": "57",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "UCLA",
+        "score_1": "67",
+        "team_2": "Iowa",
+        "score_2": "65",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Detroit Mercy",
+        "score_1": "62",
+        "team_2": "Purdue Fort Wayne",
+        "score_2": "91",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Stony Brook",
+        "score_1": "51",
+        "team_2": "Campbell",
+        "score_2": "76",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Indiana",
+        "score_1": "65",
+        "team_2": "Michigan St.",
+        "score_2": "73",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "UNCW",
+        "score_1": "72",
+        "team_2": "Towson",
+        "score_2": "63",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "California",
+        "score_1": "84",
+        "team_2": "Virginia Tech",
+        "score_2": "87",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Indiana St.",
+        "score_1": "68",
+        "team_2": "Valparaiso",
+        "score_2": "73",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "SMU",
+        "score_1": "78",
+        "team_2": "Boston College",
+        "score_2": "87",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Syracuse",
+        "score_1": "49",
+        "team_2": "Duke",
+        "score_2": "80",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "North Carolina",
+        "score_1": "79",
+        "team_2": "Louisville",
+        "score_2": "75",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Utah",
+        "score_1": "92",
+        "team_2": "Cincinnati",
+        "score_2": "65",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Illinois St.",
+        "score_1": "65",
+        "team_2": "Bradley",
+        "score_2": "70",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Missouri",
+        "score_1": "66",
+        "team_2": "Ole Miss",
+        "score_2": "68",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Northwestern",
+        "score_1": "68",
+        "team_2": "Wisconsin",
+        "score_2": "73",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Belmont",
+        "score_1": "78",
+        "team_2": "Murray St.",
+        "score_2": "83",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Texas A&M",
+        "score_1": "55",
+        "team_2": "Mississippi St.",
+        "score_2": "81",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Oklahoma",
+        "score_1": "94",
+        "team_2": "Arkansas",
+        "score_2": "54",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Washington",
+        "score_1": "83",
+        "team_2": "Nebraska",
+        "score_2": "62",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Evansville",
+        "score_1": "54",
+        "team_2": "UIC",
+        "score_2": "71",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Creighton",
+        "score_1": "83",
+        "team_2": "DePaul",
+        "score_2": "74",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "South Carolina",
+        "score_1": "82",
+        "team_2": "Vanderbilt",
+        "score_2": "54",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Illinois",
+        "score_1": "66",
+        "team_2": "Southern California",
+        "score_2": "76",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Florida St.",
+        "score_1": "73",
+        "team_2": "Georgia Tech",
+        "score_2": "70",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "LSU",
+        "score_1": "65",
+        "team_2": "Kentucky",
+        "score_2": "58",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "George Mason",
+        "score_1": "69",
+        "team_2": "Saint Joseph's",
+        "score_2": "83",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Seton Hall",
+        "score_1": "66",
+        "team_2": "St. John's (NY)",
+        "score_2": "57",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Auburn",
+        "score_1": "50",
+        "team_2": "Alabama",
+        "score_2": "66",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Rutgers",
+        "score_1": "58",
+        "team_2": "Oregon",
+        "score_2": "77",
+        "date": "2025-02-24"
+    },
+    {
+        "team_1": "Stanford",
+        "score_1": "69",
+        "team_2": "Virginia",
+        "score_2": "89",
+        "date": "2025-02-24"
+    }
+]

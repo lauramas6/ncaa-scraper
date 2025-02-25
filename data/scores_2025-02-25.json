@@ -1,0 +1,44 @@
+[
+    {
+        "team_1": "N.C. Central",
+        "score_1": "69",
+        "team_2": "Delaware St.",
+        "score_2": "42",
+        "date": "2025-02-25"
+    },
+    {
+        "team_1": "Howard",
+        "score_1": "68",
+        "team_2": "Coppin St.",
+        "score_2": "60",
+        "date": "2025-02-25"
+    },
+    {
+        "team_1": "Morgan St.",
+        "score_1": "41",
+        "team_2": "Norfolk St.",
+        "score_2": "85",
+        "date": "2025-02-25"
+    },
+    {
+        "team_1": "South Carolina St.",
+        "score_1": "24",
+        "team_2": "UMES",
+        "score_2": "61",
+        "date": "2025-02-25"
+    },
+    {
+        "team_1": "Baylor",
+        "score_1": "8",
+        "team_2": "Kansas St.",
+        "score_2": "2",
+        "date": "2025-02-25"
+    },
+    {
+        "team_1": "Texas",
+        "score_1": "6",
+        "team_2": "Georgia",
+        "score_2": "2",
+        "date": "2025-02-25"
+    }
+]

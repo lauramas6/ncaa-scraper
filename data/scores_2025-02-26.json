@@ -1,0 +1,58 @@
+[
+    {
+        "team_1": "Col. of Charleston",
+        "score_1": "70",
+        "team_2": "Hampton",
+        "score_2": "58",
+        "date": "2025-02-26"
+    },
+    {
+        "team_1": "Lindenwood",
+        "score_1": "70",
+        "team_2": "Western Ill.",
+        "score_2": "75",
+        "date": "2025-02-26"
+    },
+    {
+        "team_1": "Iowa St.",
+        "score_1": "98",
+        "team_2": "UCF",
+        "score_2": "73",
+        "date": "2025-02-26"
+    },
+    {
+        "team_1": "UTSA",
+        "score_1": "77",
+        "team_2": "Tulane",
+        "score_2": "73",
+        "date": "2025-02-26"
+    },
+    {
+        "team_1": "Texas Tech",
+        "score_1": "57",
+        "team_2": "Arizona",
+        "score_2": "66",
+        "date": "2025-02-26"
+    },
+    {
+        "team_1": "Temple",
+        "score_1": "91",
+        "team_2": "Memphis",
+        "score_2": "79",
+        "date": "2025-02-26"
+    },
+    {
+        "team_1": "UAB",
+        "score_1": "48",
+        "team_2": "Rice",
+        "score_2": "73",
+        "date": "2025-02-26"
+    },
+    {
+        "team_1": "Kansas",
+        "score_1": "71",
+        "team_2": "BYU",
+        "score_2": "66",
+        "date": "2025-02-26"
+    }
+]

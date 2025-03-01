@@ -1,0 +1,135 @@
+[
+    {
+        "team_1": "Princeton",
+        "score_1": "68",
+        "team_2": "Harvard",
+        "score_2": "58",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Brown",
+        "score_1": "44",
+        "team_2": "Columbia",
+        "score_2": "70",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Yale",
+        "score_1": "48",
+        "team_2": "Cornell",
+        "score_2": "46",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Old Dominion",
+        "score_1": "79",
+        "team_2": "Ga. Southern",
+        "score_2": "86",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "App State",
+        "score_1": "51",
+        "team_2": "Coastal Carolina",
+        "score_2": "88",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Louisiana",
+        "score_1": "53",
+        "team_2": "Southern Miss.",
+        "score_2": "64",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Texas St.",
+        "score_1": "63",
+        "team_2": "South Alabama",
+        "score_2": "56",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Georgia St.",
+        "score_1": "70",
+        "team_2": "Marshall",
+        "score_2": "68",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Monmouth",
+        "score_1": "65",
+        "team_2": "Drexel",
+        "score_2": "75",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Campbell",
+        "score_1": "58",
+        "team_2": "Towson",
+        "score_2": "57",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Delaware",
+        "score_1": "71",
+        "team_2": "Stony Brook",
+        "score_2": "62",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Hofstra",
+        "score_1": "53",
+        "team_2": "Hampton",
+        "score_2": "47",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "ULM",
+        "score_1": "51",
+        "team_2": "James Madison",
+        "score_2": "79",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "N.C. A&T",
+        "score_1": "67",
+        "team_2": "UNCW",
+        "score_2": "64",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Northeastern",
+        "score_1": "51",
+        "team_2": "William & Mary",
+        "score_2": "71",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Elon",
+        "score_1": "51",
+        "team_2": "Col. of Charleston",
+        "score_2": "91",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Rice",
+        "score_1": "63",
+        "team_2": "Temple",
+        "score_2": "83",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Arkansas St.",
+        "score_1": "89",
+        "team_2": "Troy",
+        "score_2": "85",
+        "date": "2025-03-01"
+    },
+    {
+        "team_1": "Penn",
+        "score_1": "66",
+        "team_2": "Dartmouth",
+        "score_2": "37",
+        "date": "2025-03-01"
+    }
+]

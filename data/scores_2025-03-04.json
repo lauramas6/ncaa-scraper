@@ -1,0 +1,65 @@
+[
+    {
+        "team_1": "Weber St.",
+        "score_1": "58",
+        "team_2": "Northern Colo.",
+        "score_2": "55",
+        "date": "2025-03-04"
+    },
+    {
+        "team_1": "Idaho St.",
+        "score_1": "71",
+        "team_2": "Northern Ariz.",
+        "score_2": "83",
+        "date": "2025-03-04"
+    },
+    {
+        "team_1": "Montana St.",
+        "score_1": "25",
+        "team_2": "Idaho",
+        "score_2": "22",
+        "date": "2025-03-04"
+    },
+    {
+        "team_1": "Montana",
+        "score_1": "31",
+        "team_2": "Eastern Wash.",
+        "score_2": "29",
+        "date": "2025-03-04"
+    },
+    {
+        "team_1": "Portland St.",
+        "score_1": "5",
+        "team_2": "Sacramento St.",
+        "score_2": "19",
+        "date": "2025-03-04"
+    },
+    {
+        "team_1": "Delaware St.",
+        "score_1": "47",
+        "team_2": "Morgan St.",
+        "score_2": "68",
+        "date": "2025-03-04"
+    },
+    {
+        "team_1": "Norfolk St.",
+        "score_1": "96",
+        "team_2": "N.C. Central",
+        "score_2": "57",
+        "date": "2025-03-04"
+    },
+    {
+        "team_1": "UMES",
+        "score_1": "62",
+        "team_2": "Coppin St.",
+        "score_2": "56",
+        "date": "2025-03-04"
+    },
+    {
+        "team_1": "Howard",
+        "score_1": "89",
+        "team_2": "South Carolina St.",
+        "score_2": "39",
+        "date": "2025-03-04"
+    }
+]

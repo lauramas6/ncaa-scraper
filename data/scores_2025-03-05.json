@@ -1,0 +1,114 @@
+[
+    {
+        "team_1": "Utah St.",
+        "score_1": "53",
+        "team_2": "Boise St.",
+        "score_2": "66",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "Air Force",
+        "score_1": "40",
+        "team_2": "New Mexico",
+        "score_2": "49",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "Fresno St.",
+        "score_1": "35",
+        "team_2": "San Diego St.",
+        "score_2": "39",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "Colorado St.",
+        "score_1": "",
+        "team_2": "San Jose St.",
+        "score_2": "",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "Southern Miss.",
+        "score_1": "59",
+        "team_2": "Ga. Southern",
+        "score_2": "70",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "New Orleans",
+        "score_1": "73",
+        "team_2": "McNeese",
+        "score_2": "71",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "South Alabama",
+        "score_1": "59",
+        "team_2": "Marshall",
+        "score_2": "73",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "Youngstown St.",
+        "score_1": "58",
+        "team_2": "Wright St.",
+        "score_2": "73",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "UTSA",
+        "score_1": "67",
+        "team_2": "East Carolina",
+        "score_2": "48",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "Temple",
+        "score_1": "60",
+        "team_2": "Charlotte",
+        "score_2": "54",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "Memphis",
+        "score_1": "62",
+        "team_2": "Fla. Atlantic",
+        "score_2": "69",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "Tulane",
+        "score_1": "64",
+        "team_2": "UAB",
+        "score_2": "66",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "Tulsa",
+        "score_1": "58",
+        "team_2": "Wichita St.",
+        "score_2": "46",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "Milwaukee",
+        "score_1": "62",
+        "team_2": "Detroit Mercy",
+        "score_2": "73",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "Oakland",
+        "score_1": "62",
+        "team_2": "IU Indy",
+        "score_2": "56",
+        "date": "2025-03-05"
+    },
+    {
+        "team_1": "North Texas",
+        "score_1": "68",
+        "team_2": "Rice",
+        "score_2": "56",
+        "date": "2025-03-05"
+    }
+]

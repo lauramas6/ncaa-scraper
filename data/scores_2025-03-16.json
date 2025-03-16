@@ -1,0 +1,93 @@
+[
+    {
+        "team_1": "Toledo",
+        "score_1": "58",
+        "team_2": "Ball St.",
+        "score_2": "65",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "Quinnipiac",
+        "score_1": "53",
+        "team_2": "Fairfield",
+        "score_2": "76",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "Central Ark.",
+        "score_1": "51",
+        "team_2": "FGCU",
+        "score_2": "68",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "William & Mary",
+        "score_1": "76",
+        "team_2": "Drexel",
+        "score_2": "54",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "Drake",
+        "score_1": "90",
+        "team_2": "Murray St.",
+        "score_2": "96",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "UT Arlington",
+        "score_1": "62",
+        "team_2": "Grand Canyon",
+        "score_2": "65",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "Howard",
+        "score_1": "56",
+        "team_2": "Norfolk St.",
+        "score_2": "68",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "Campbell",
+        "score_1": "80",
+        "team_2": "Col. of Charleston",
+        "score_2": "59",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "Belmont",
+        "score_1": "76",
+        "team_2": "Missouri St.",
+        "score_2": "67",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "Middle Tenn.",
+        "score_1": "48",
+        "team_2": "Liberty",
+        "score_2": "53",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "Alcorn",
+        "score_1": "44",
+        "team_2": "Southern U.",
+        "score_2": "64",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "Harvard",
+        "score_1": "74",
+        "team_2": "Columbia",
+        "score_2": "71",
+        "date": "2025-03-16"
+    },
+    {
+        "team_1": "UC San Diego",
+        "score_1": "75",
+        "team_2": "UC Davis",
+        "score_2": "66",
+        "date": "2025-03-16"
+    }
+]

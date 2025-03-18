@@ -1,0 +1,30 @@
+[
+    {
+        "team_1": "Army West Point",
+        "score_1": "62",
+        "team_2": "Lehigh",
+        "score_2": "74",
+        "date": "2025-03-18"
+    },
+    {
+        "team_1": "Stonehill",
+        "score_1": "49",
+        "team_2": "FDU",
+        "score_2": "66",
+        "date": "2025-03-18"
+    },
+    {
+        "team_1": "William & Mary",
+        "score_1": "66",
+        "team_2": "Campbell",
+        "score_2": "63",
+        "date": "2025-03-18"
+    },
+    {
+        "team_1": "Belmont",
+        "score_1": "62",
+        "team_2": "Murray St.",
+        "score_2": "83",
+        "date": "2025-03-18"
+    }
+]

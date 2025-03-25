@@ -1,0 +1,107 @@
+[
+    {
+        "team_1": "Michigan St.",
+        "score_1": "49",
+        "team_2": "NC State",
+        "score_2": "83",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "Illinois",
+        "score_1": "48",
+        "team_2": "Texas",
+        "score_2": "65",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "Iowa",
+        "score_1": "62",
+        "team_2": "Oklahoma",
+        "score_2": "96",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "Alabama",
+        "score_1": "108",
+        "team_2": "Maryland",
+        "score_2": "111",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "Florida St.",
+        "score_1": "71",
+        "team_2": "LSU",
+        "score_2": "101",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "West Virginia",
+        "score_1": "47",
+        "team_2": "North Carolina",
+        "score_2": "58",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "UT Arlington",
+        "score_1": "67",
+        "team_2": "North Texas",
+        "score_2": "78",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "Chattanooga",
+        "score_1": "72",
+        "team_2": "Troy",
+        "score_2": "85",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "Howard",
+        "score_1": "56",
+        "team_2": "Col. of Charleston",
+        "score_2": "76",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "Abilene Christian",
+        "score_1": "75",
+        "team_2": "Central Ark.",
+        "score_2": "53",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "Texas Southern",
+        "score_1": "64",
+        "team_2": "Louisiana Tech",
+        "score_2": "71",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "South Dakota St.",
+        "score_1": "57",
+        "team_2": "UConn",
+        "score_2": "91",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "New Mexico St.",
+        "score_1": "65",
+        "team_2": "North Dakota St.",
+        "score_2": "68",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "Utah Valley",
+        "score_1": "54",
+        "team_2": "Washington St.",
+        "score_2": "57",
+        "date": "2025-03-25"
+    },
+    {
+        "team_1": "Mississippi St.",
+        "score_1": "59",
+        "team_2": "Southern California",
+        "score_2": "96",
+        "date": "2025-03-25"
+    }
+]

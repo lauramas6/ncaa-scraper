@@ -1,0 +1,65 @@
+[
+    {
+        "team_1": "Texas Tech",
+        "score_1": "63",
+        "team_2": "Florida",
+        "score_2": "67",
+        "date": "2025-03-28"
+    },
+    {
+        "team_1": "Portland",
+        "score_1": "61",
+        "team_2": "Villanova",
+        "score_2": "71",
+        "date": "2025-03-28"
+    },
+    {
+        "team_1": "Belmont",
+        "score_1": "90",
+        "team_2": "James Madison",
+        "score_2": "45",
+        "date": "2025-03-28"
+    },
+    {
+        "team_1": "North Texas",
+        "score_1": "86",
+        "team_2": "Troy",
+        "score_2": "88",
+        "date": "2025-03-28"
+    },
+    {
+        "team_1": "Buffalo",
+        "score_1": "76",
+        "team_2": "Southern Ind.",
+        "score_2": "64",
+        "date": "2025-03-28"
+    },
+    {
+        "team_1": "Col. of Charleston",
+        "score_1": "67",
+        "team_2": "Rutgers",
+        "score_2": "89",
+        "date": "2025-03-28"
+    },
+    {
+        "team_1": "Abilene Christian",
+        "score_1": "68",
+        "team_2": "Illinois St.",
+        "score_2": "78",
+        "date": "2025-03-28"
+    },
+    {
+        "team_1": "Gonzaga",
+        "score_1": "77",
+        "team_2": "Minnesota",
+        "score_2": "82",
+        "date": "2025-03-28"
+    },
+    {
+        "team_1": "Washington St.",
+        "score_1": "51",
+        "team_2": "North Dakota St.",
+        "score_2": "59",
+        "date": "2025-03-28"
+    }
+]

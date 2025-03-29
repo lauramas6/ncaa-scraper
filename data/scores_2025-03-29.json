@@ -1,0 +1,44 @@
+[
+    {
+        "team_1": "North Carolina",
+        "score_1": "38",
+        "team_2": "Duke",
+        "score_2": "47",
+        "date": "2025-03-29"
+    },
+    {
+        "team_1": "Maryland",
+        "score_1": "67",
+        "team_2": "South Carolina",
+        "score_2": "71",
+        "date": "2025-03-29"
+    },
+    {
+        "team_1": "Duquesne",
+        "score_1": "52",
+        "team_2": "Cleveland St.",
+        "score_2": "55",
+        "date": "2025-03-29"
+    },
+    {
+        "team_1": "Butler",
+        "score_1": "61",
+        "team_2": "Purdue Fort Wayne",
+        "score_2": "87",
+        "date": "2025-03-29"
+    },
+    {
+        "team_1": "LSU",
+        "score_1": "80",
+        "team_2": "NC State",
+        "score_2": "73",
+        "date": "2025-03-29"
+    },
+    {
+        "team_1": "Ole Miss",
+        "score_1": "62",
+        "team_2": "UCLA",
+        "score_2": "76",
+        "date": "2025-03-29"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "team_1": "Notre Dame",
+        "score_1": "62",
+        "team_2": "TCU",
+        "score_2": "71",
+        "date": "2025-03-30"
+    },
+    {
+        "team_1": "Tennessee",
+        "score_1": "59",
+        "team_2": "Texas",
+        "score_2": "67",
+        "date": "2025-03-30"
+    },
+    {
+        "team_1": "Oklahoma",
+        "score_1": "59",
+        "team_2": "UConn",
+        "score_2": "82",
+        "date": "2025-03-30"
+    },
+    {
+        "team_1": "Kansas St.",
+        "score_1": "61",
+        "team_2": "Southern California",
+        "score_2": "67",
+        "date": "2025-03-30"
+    }
+]

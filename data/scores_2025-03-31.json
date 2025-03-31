@@ -1,0 +1,23 @@
+[
+    {
+        "team_1": "Duke",
+        "score_1": "50",
+        "team_2": "South Carolina",
+        "score_2": "54",
+        "date": "2025-03-31"
+    },
+    {
+        "team_1": "Rutgers",
+        "score_1": "64",
+        "team_2": "Buffalo",
+        "score_2": "71",
+        "date": "2025-03-31"
+    },
+    {
+        "team_1": "LSU",
+        "score_1": "65",
+        "team_2": "UCLA",
+        "score_2": "72",
+        "date": "2025-03-31"
+    }
+]

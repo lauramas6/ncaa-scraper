@@ -1,0 +1,51 @@
+[
+    {
+        "team_1": "Villanova",
+        "score_1": "57",
+        "team_2": "Belmont",
+        "score_2": "66",
+        "date": "2025-04-02"
+    },
+    {
+        "team_1": "Florida",
+        "score_1": "52",
+        "team_2": "Minnesota",
+        "score_2": "66",
+        "date": "2025-04-02"
+    },
+    {
+        "team_1": "TCU",
+        "score_1": "47",
+        "team_2": "Texas",
+        "score_2": "58",
+        "date": "2025-04-02"
+    },
+    {
+        "team_1": "Louisiana Tech",
+        "score_1": "70",
+        "team_2": "Illinois St.",
+        "score_2": "78",
+        "date": "2025-04-02"
+    },
+    {
+        "team_1": "Cleveland St.",
+        "score_1": "76",
+        "team_2": "Purdue Fort Wayne",
+        "score_2": "65",
+        "date": "2025-04-02"
+    },
+    {
+        "team_1": "Troy",
+        "score_1": "97",
+        "team_2": "North Dakota St.",
+        "score_2": "88",
+        "date": "2025-04-02"
+    },
+    {
+        "team_1": "UConn",
+        "score_1": "78",
+        "team_2": "Southern California",
+        "score_2": "64",
+        "date": "2025-04-02"
+    }
+]

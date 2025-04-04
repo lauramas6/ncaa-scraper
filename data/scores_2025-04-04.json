@@ -1,0 +1,23 @@
+[
+    {
+        "team_1": "Belmont",
+        "score_1": "63",
+        "team_2": "Minnesota",
+        "score_2": "75",
+        "date": "2025-04-04"
+    },
+    {
+        "team_1": "Cleveland St.",
+        "score_1": "69",
+        "team_2": "Buffalo",
+        "score_2": "74",
+        "date": "2025-04-04"
+    },
+    {
+        "team_1": "Troy",
+        "score_1": "99",
+        "team_2": "Illinois St.",
+        "score_2": "96",
+        "date": "2025-04-04"
+    }
+]
